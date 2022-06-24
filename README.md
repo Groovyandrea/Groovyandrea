@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Groovyandrea
 
-- 👀 I’m interested in security 
+- 👀 I’m interested in learning about all of this
 - 🌱 I’m currently learning new things 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding & security 
 - 📫 How to reach me deadinsidebeaman420@gmail.com
 
 <!---
